@@ -19,7 +19,7 @@ LinkedIn: https://www.linkedin.com/in/obadaisuke/
 
 ### 2018/07 - 2019/01:R&Dインターン、Panasonic R&D Center Singapore
 - 深層学習と画像認識に関する研究開発を行うチームに所属し、現地エンジニアやインターン生と共に開発業務に従事。
-- 姿勢推定を行う深層学習モデルをRaspbery Piに移植する開発を行いました。本プロジェクトで開発したコードの一部はGitHub上で[公開しています](https://github.com/savageyusuff/MobilePose-Pi)。
+- 姿勢推定を行う深層学習モデルをRaspbery Piに移植する開発を行いました。本プロジェクトで開発したコードの一部はGitHub上で[公開](https://github.com/savageyusuff/MobilePose-Pi)。
 - C言語によるカメラの組み込みプログラムにおいて、画像が勝手に回転してしまう不具合のデバッグ作業を行った。
 
 ## 論文
