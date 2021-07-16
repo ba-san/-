@@ -2,7 +2,7 @@
 
 ## 基本情報
 氏名：大場 大輔 (オオバ ダイスケ)  
-所属：九州大学工学部電気情報工学科[ヒューマンインタフェース研究室(Brian研)](https://human.ait.kyushu-u.ac.jp/members.html)  
+所属：九州大学工学部電気情報工学科[ヒューマンインタフェース研究室(Iwana研)](https://human.ait.kyushu-u.ac.jp/members.html)  
 LinkedIn: https://www.linkedin.com/in/obadaisuke/  
 
 ## 強み
