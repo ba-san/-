@@ -1,48 +1,52 @@
-# 職務経歴
+# Resume
+Japanese version is available [here](https://github.com/ba-san/resume/tree/ja).  
+(日本語版は[こちら](https://github.com/ba-san/resume/tree/ja))  
 
-## 基本情報
-氏名：大場 大輔 (オオバ ダイスケ)  
-所属：九州大学工学部電気情報工学科[ヒューマンインタフェース研究室](https://human.ait.kyushu-u.ac.jp/members.html)  
-(指導教官：[Brian Kenji Iwana](http://brianiwana.com/)先生)  
+## Basic Information
+Name：OBA Daisuke  
+Affiliation：[Human Interface Laboratory](https://human.ait.kyushu-u.ac.jp/index-e.html), EECS, Kyushu University, Japan.  
+(Supervisor：[Prof. Brian Kenji Iwana](http://brianiwana.com/))  
 LinkedIn: https://www.linkedin.com/in/obadaisuke/  
 E-Mail: ohbadai7191 at gmail.com
 
-## 強み
-- 積極的に周囲を巻き込み、自律的に学習を進められる能力。
-- 学業成績(GPA3.59)に裏打ちされた専門性と、国立研究所や大手メーカーでのインターンシップで培った実装能力やコラボレーション能力。
-- 交換留学やインターンシップ等で磨いた、異なるバックグラウンドを持つ人々と協力して物事を進めることができるコミュニケーション能力。
+## My strengths
+· A long-term perspective and a willingness to take action to seek out opportunities for learning  
+· High level of expertise(GPA3.59/4.00), programming skills, and ability to collaborate through internships  
+· English proficiency and cross-cultural communication skills through study abroad program in the UK and internship in Singapore  
 
-## インターンシップ
-### 2019/03 - 2019/09: 技術研修員、国立研究開発法人　産業技術総合研究所
-- 人工知能研究センター社会知能研究チームに所属し、群集画像の解析研究に従事。
-- 深層学習を用いて群衆画像中の人物の数と位置を推定する研究を行い、国内研究会にて成果を発表。コードはこちらで[公開](https://github.com/ba-san/Crowd-Analysis-with-CNN)。
-- [アノテーション支援プログラム](https://github.com/ba-san/Count-Annotator2)をフルスクラッチで作成し、研究協力者に対してアノテーション作業のマネジメントを行った。
+## Internships
+### 2019/03 - 2019/09: Research Intern, National Institute of Advanced Industrial Science and Technology
+- Joined Social Intelligence Research Team, Artificial Intelligence Research Center (AIRC).
+- Conducted research on estimating the number and location of people in a crowd image using deep learning, and summarized the results in a short paper for domestic society. You can check my codes [here](https://github.com/ba-san/Crowd-Analysis-with-CNN).
+- Developed [an annotation support software](https://github.com/ba-san/Count-Annotator2) from scratch and managed annotation tasks by assigning it to
+some collaborators.
 
-### 2018/07 - 2019/01: R&Dインターン、Panasonic R&D Center Singapore
-- 深層学習と画像認識に関する研究開発を行うチームに所属し、現地エンジニアやインターン生と共に開発業務に従事。
-- 姿勢推定を行う深層学習モデルのRaspbery Piへの移植開発を担当。本プロジェクトで開発したコードの一部はGitHub上で[公開](https://github.com/savageyusuff/MobilePose-Pi)。
-- C言語によるカメラの組み込みプログラムにおいて、画像が勝手に回転してしまう不具合のデバッグ作業を行った。
+### 2018/07 - 2019/01: R&D Intern, Panasonic R&D Center Singapore
+- Joined Deep Learning and Computer Vision team.
+- Ported a deep learning model for pose estimation to work on Raspberry Pi. Some codes of this
+project are [public](https://github.com/savageyusuff/MobilePose-Pi).
+- Debugged a C program that automatically rotates the image in the camera’s built-in program.
 
-## 研究業績
+## Publications
 
-### 論文
+### Papers
 
-#### 国際学会
+#### International
 
-題目：[Dynamic Data Augmentation with Gating Networks](https://arxiv.org/abs/2111.03253)  
-著者：**Daisuke Oba**, Shinnosuke Matsuo and Brian Kenji Iwana  
-発表学会：Submitted to ICASSP2022 (under review)  
+Title：[Dynamic Data Augmentation with Gating Networks](https://arxiv.org/abs/2111.03253)  
+Authors：**Daisuke Oba**, Shinnosuke Matsuo and Brian Kenji Iwana  
+Conference：Submitted to ICASSP2022 (under review)  
 
-#### 国内学会
+#### Japanese
 
-題目：[CNNによる群集画像中の人物とその分布の推定](https://www.ieice.org/ken/paper/20190904a1ph/)  
-著者：**大場大輔**　大西正輝  
-発表学会：IEICE-PRMU2019-20  
+Title：[CNNによる群集画像中の人物とその分布の推定](https://www.ieice.org/ken/paper/20190904a1ph/)  
+Authors：**大場大輔**　大西正輝  
+Conference：IEICE-PRMU2019-20  
 
-題目：[ニューラルネットワークを用いた大規模マルチエージェントシミュレーション結果の推定](https://jsai.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=23&item_id=11047&item_no=1)  
-著者：山下裕　重中秀介　**大場大輔**　大西正輝  
-発表学会：SIG-SAI2020  
+Title：[Estimation of Large-scale Multi Agent Simulation Results Using Neural Networks](https://jsai.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=23&item_id=11047&item_no=1)  
+Authors：Yu Yamashita, Shusuke Shigenaka, **Daisuke Oba** and Masaki Onishi  
+Conference：SIG-SAI2020  
 
-## 専門スキル
-中級：組み込み開発、Linux  
-上級：Python(PyTorchを含む)、C/C++、機械学習、画像認識  
+## Expertise
+Intermediate：Embedded programming, Linux  
+Advanced：Python(includes PyTorch), C/C++, Machine Learning, Pattern Recognition  
