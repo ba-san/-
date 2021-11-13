@@ -10,11 +10,15 @@ LinkedIn: https://www.linkedin.com/in/obadaisuke/
 E-Mail: ohbadai7191 at gmail.com
 
 ## My strengths
-· A long-term perspective and a willingness to take action to seek out opportunities for learning  
-· High level of expertise(GPA3.59/4.00), programming skills, and ability to collaborate through internships  
-· English proficiency and cross-cultural communication skills through study abroad program in the UK and internship in Singapore  
+- A long-term perspective and a willingness to take action to seek out opportunities for learning  
+- High level of expertise(GPA3.59/4.00), programming skills, and ability to collaborate through internships  
+- English proficiency and cross-cultural communication skills through study abroad program in the UK and internship in Singapore  
 
-## Internships
+## Internships & Part time jobs
+
+### 2021/09 - Current: Machine Learning tutor, Aidemy  
+- Answer questions ralated to machine learning asked by employees from manufacturers, consulting firms and so on.  
+
 ### 2019/03 - 2019/09: Research Intern, National Institute of Advanced Industrial Science and Technology
 - Joined Social Intelligence Research Team, Artificial Intelligence Research Center (AIRC).
 - Conducted research on estimating the number and location of people in a crowd image using deep learning, and summarized the results in a short paper for domestic society. You can check my codes [here](https://github.com/ba-san/Crowd-Analysis-with-CNN).
