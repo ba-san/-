@@ -7,7 +7,7 @@ Name：OBA Daisuke
 Affiliation：[Human Interface Laboratory](https://human.ait.kyushu-u.ac.jp/index-e.html), EECS, Kyushu University, Japan.  
 (Supervisor：[Prof. Brian Kenji Iwana](http://brianiwana.com/))  
 LinkedIn: https://www.linkedin.com/in/obadaisuke/  
-E-Mail: oba.daisuke.jp at gmail.com
+E-Mail: oba.daisuke at protonmail.com
 
 ## My strengths
 - A long-term perspective and a willingness to take action to seek out opportunities for learning  
