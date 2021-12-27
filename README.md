@@ -5,7 +5,7 @@
 所属：九州大学工学部電気情報工学科[ヒューマンインタフェース研究室](https://human.ait.kyushu-u.ac.jp/members.html)  
 (指導教官：[Brian Kenji Iwana](http://brianiwana.com/)先生)  
 LinkedIn: https://www.linkedin.com/in/obadaisuke/  
-E-Mail: oba.daisuke.jp at gmail.com
+E-Mail: oba.daisuke at protonmail.com
 
 ## 強み
 - 積極的に周囲を巻き込み、自律的に学習を進められる能力。
