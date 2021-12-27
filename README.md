@@ -1,6 +1,4 @@
 # Resume
-Japanese version is available [here](https://github.com/ba-san/resume/tree/ja).  
-(日本語版は[こちら](https://github.com/ba-san/resume/tree/ja))  
 
 ## Basic Information
 Name：OBA Daisuke  
@@ -16,7 +14,7 @@ E-Mail: oba.daisuke at protonmail.com
 
 ## Internships & Part time jobs
 
-### 2021/09 - Current: Machine Learning tutor, Aidemy  
+### 2021/09 - 2022/02: Machine Learning tutor, Aidemy  
 - Answer questions ralated to machine learning asked by employees from manufacturers, consulting firms and so on.  
 
 ### 2019/03 - 2019/09: Research Intern, National Institute of Advanced Industrial Science and Technology
